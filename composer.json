@@ -7,7 +7,10 @@
         "php-http/cache-plugin": "^1.7",
         "php-tmdb/api": "^4",
         "spatie/array-to-xml": "^3.1",
-        "vlucas/phpdotenv": "^5.4"
+        "vlucas/phpdotenv": "^5.4",
+        "monolog/monolog": "^3.3",
+        "symfony/cache": "^6.2",
+        "crysalead/dir": "^2.0"
     },
     "config": {
         "allow-plugins": {
